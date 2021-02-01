@@ -14,7 +14,7 @@ file1.close()
 running = True
 while running:
 
-    #Get inputs
+    #Get input
     os.system('cls')
     print("Rollercoaster-check™")
     age = input("Voer leeftijd in: ")
